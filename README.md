@@ -15,7 +15,7 @@ Connect with me on [LinkedIn](https://linkedin.com/in/diego-min-so) to stay upda
 ## Languages:
 
 - [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
-- [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://www.iso.org/c.html)
+- [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://www.w3schools.com/c/c_intro.php))
 
 ## Data Science & ML:
 
