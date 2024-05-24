@@ -2,7 +2,7 @@
 
 Hey there! 👋 I'm Diego, a passionate developer diving into the tech world! Currently, I'm tinkering with my home server to grasp more about containers and various tech stacks.
 
-🌱 Besides, I'm on a journey to master Data Analysis and polish my skills in React (JS, CSS, HTML, Next.JS, Tailwind, Hooks).
+🌱 Besides, I'm on a journey to master Data Analysis and ML while trying to learn some React (JS, CSS, HTML, Next.JS, Tailwind, Hooks).
 
 Wanna know more about my journey? Check out my experiences on [LinkedIn](https://www.linkedin.com/in/diego-min-so/?locale=en_US).
 
